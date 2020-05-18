@@ -7,7 +7,6 @@ const { SENTRY_DSN, SENTRY_ORG, SENTRY_PROJECT, SENTRY_AUTH_TOKEN, NODE_ENV } = 
 module.exports = {
   env: {
     APP_ENV: "local",
-    NODE_ENV: "local",
     SENTRY_DSN: process.env.SENTRY_DSN,
   },
   webpack: (config, options) => {

@@ -1,6 +1,6 @@
 {
   "full_name": "Sriram Veeraghanta",
-  "email": "sriram.veeraghanta@",
+  "email": "sriram.veeraghanta@soulpageit.com",
   "github_username": "soulpage",
   "project_name": "Next Init",
   "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
